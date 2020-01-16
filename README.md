@@ -1,2 +1,2 @@
 # COLAB
-Projects on google colab
+Projects on google colab.
